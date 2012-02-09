@@ -1,0 +1,21 @@
+3 3 3
+
+table
+0 0.8 0
+1 1
+45
+1 1 2
+
+mesh
+testextrusion1.dat
+bricks.jpg
+0 0
+0
+1 1 1
+
+mesh
+testsurfrev1.dat
+wood.jpg
+2 2
+0
+1 1 1

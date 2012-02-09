@@ -1,0 +1,93 @@
+3 3 3
+
+table
+1
+1 1
+45
+1 1 2
+
+mesh
+testextrusion1.dat
+2
+0 0
+0
+1 1 1
+
+mesh
+testsurfrev1.dat
+3
+2 2
+0
+1 1 1
+
+FILE supersweet_raytraced_image.bmp
+RESO 640 480
+EYEP 10.0 10.0 8
+VDIR -0.575 -0.6388 -0.5111
+UVEC 0.0 1.0 0.0
+FOVY 40.0
+LPOS 10.0 12.0 12.5
+LCOL 1.0 1.0 1.0
+ACOL 0.2 0.2 0.2
+MAT1 0.5 0.5 0.5 0.25 0.0 0.0 0.0 0.0
+MAT2 1.0 0.0 0.0 4.0 0.3 0.0 0.0 0.0
+MAT3 0.0 1.0 0.3 4.0 0.3 0.0 0.0 0.0
+
+lamp
+1
+0 1
+0
+1 1 1
+
+mesh
+testextrusion1.dat
+2
+0 0
+0
+1 1 1
+
+mesh
+testextrusion1.dat
+3
+1 0
+0
+1 1 1
+
+cabinet
+3
+2 2
+0
+1 1 1
+
+lamp
+1
+-2 1
+0
+1 1 1
+
+
+
+
+
+
+5 5 3
+
+lamp
+2
+0 0
+0
+1 1 1
+
+cabinet
+1
+1 -1
+-30
+1 1 1
+
+mesh
+testextrusion1.dat
+3
+-2 1
+0
+1 1 1
+
